@@ -1,0 +1,101 @@
+Rank,City,Country,Overall Score,Stability,Healthcare,Culture & Environment,Education,Infrastructure
+1,Vienna,Austria,99.1,100,100,96.3,100,100
+2,Melbourne,Australia,98.4,95,100,98.6,100,100
+3,Vancouver,Canada,98,95,100,100,100,92.9
+4,Toronto,Canada,97.2,100,100,97.2,100,89.3
+5,Calgary,Canada,96.3,100,100,90,100,96.4
+6,Zurich,Switzerland,95.9,95,100,96.3,95.8,96.4
+7,Geneva,Switzerland,95.8,95,100,94.9,95.8,96.4
+8,Frankfurt,Germany,95.7,95,100,94.4,95.8,100
+9,Copenhagen,Denmark,95.4,95,95.8,95.4,95.8,96.4
+10,Amsterdam,Netherlands,95.3,95,100,94,91.7,96.4
+11,Osaka,Japan,95.1,100,100,86.3,95.8,96.4
+12,Paris,France,94.8,90,100,96.3,95.8,96.4
+13,Sydney,Australia,94.5,90,100,94.4,100,92.9
+14,Stockholm,Sweden,94.2,95,95.8,94.4,91.7,96.4
+15,London,United Kingdom,93.9,90,95.8,95.8,100,89.3
+16,Tokyo,Japan,93.7,95,100,88.1,95.8,92.9
+17,Singapore,Singapore,93.6,95,95.8,87.2,100,96.4
+18,Helsinki,Finland,93.3,95,91.7,91.7,95.8,96.4
+19,Brisbane,Australia,93.2,95,100,88.1,100,89.3
+20,Hamburg,Germany,92.9,90,100,88.1,95.8,96.4
+21,Wellington,New Zealand,92.8,95,91.7,90.8,100,89.3
+22,Hong Kong,China,92.7,85,100,90.8,100,96.4
+23,Berlin,Germany,92.6,90,100,90.8,91.7,92.9
+24,Munich,Germany,92.5,90,100,89.9,91.7,96.4
+25,Lyon,France,92.4,90,100,88.1,91.7,96.4
+26,Dublin,Ireland,92.3,90,95.8,89.9,91.7,92.9
+27,Adelaide,Australia,92.2,95,100,85.4,100,85.7
+28,Barcelona,Spain,92.1,90,95.8,90.8,91.7,92.9
+29,Honolulu,United States,92,90,100,88.1,91.7,92.9
+30,Manchester,United Kingdom,91.9,90,95.8,88.1,91.7,92.9
+31,Luxembourg,Luxembourg,91.8,95,91.7,86.3,91.7,96.4
+32,Edinburgh,United Kingdom,91.7,90,95.8,89,91.7,92.9
+33,Rotterdam,Netherlands,91.6,90,100,85.4,91.7,96.4
+34,Perth,Australia,91.5,95,100,82.7,100,85.7
+35,Seoul,South Korea,91.4,90,95.8,85.4,100,89.3
+36,Oslo,Norway,91.3,95,91.7,87.2,91.7,92.9
+37,Dusseldorf,Germany,91.2,90,95.8,85.4,91.7,96.4
+38,Boston,United States,91.1,85,100,91.7,100,85.7
+39,Madrid,Spain,91,85,95.8,91.7,91.7,92.9
+40,Brussels,Belgium,90.9,85,100,87.2,91.7,96.4
+41,Milan,Italy,90.8,85,100,89,91.7,92.9
+42,Montreal,Canada,90.7,95,100,90.8,91.7,78.6
+43,Lisbon,Portugal,90.6,90,91.7,89,91.7,92.9
+44,Rome,Italy,90.5,85,95.8,91.7,91.7,89.3
+45,San Francisco,United States,90.4,85,95.8,91.7,100,82.1
+46,Auckland,New Zealand,90.3,95,91.7,88.1,100,82.1
+47,Washington DC,United States,90.2,85,95.8,91.7,100,82.1
+48,Chicago,United States,90.1,85,95.8,91.7,100,82.1
+49,Prague,Czech Republic,90,90,91.7,87.2,91.7,92.9
+50,Reykjavik,Iceland,89.9,95,91.7,85.4,91.7,89.3
+51,Budapest,Hungary,89.8,85,91.7,87.2,91.7,96.4
+52,Tel Aviv,Israel,89.7,80,95.8,90.8,91.7,92.9
+53,Dubai,United Arab Emirates,89.6,85,95.8,82.7,91.7,96.4
+54,Taipei,Taiwan,89.5,85,95.8,85.4,91.7,92.9
+55,Abu Dhabi,United Arab Emirates,89.4,85,95.8,81.8,91.7,96.4
+56,Miami,United States,89.3,85,95.8,87.2,91.7,89.3
+57,Kuala Lumpur,Malaysia,89.2,85,95.8,82.7,91.7,92.9
+58,Warsaw,Poland,89.1,85,87.5,87.2,91.7,96.4
+59,Ljubljana,Slovenia,89,90,87.5,85.4,91.7,92.9
+60,Buenos Aires,Argentina,88.9,80,91.7,91.7,91.7,89.3
+61,Santiago,Chile,88.8,85,91.7,86.3,91.7,89.3
+62,Porto,Portugal,88.7,90,91.7,85.4,91.7,89.3
+63,Montevideo,Uruguay,88.6,85,91.7,84.5,91.7,89.3
+64,Athens,Greece,88.5,80,91.7,89,91.7,89.3
+65,Tallinn,Estonia,88.4,85,87.5,86.3,91.7,92.9
+66,Riga,Latvia,88.3,85,87.5,85.4,91.7,92.9
+67,Mexico City,Mexico,88.2,75,91.7,91.7,91.7,89.3
+68,Shanghai,China,88.1,85,91.7,83.6,91.7,89.3
+69,Sofia,Bulgaria,88,85,87.5,84.5,91.7,92.9
+70,Vilnius,Lithuania,87.9,85,87.5,85.4,91.7,89.3
+71,Cape Town,South Africa,87.8,75,91.7,90.8,91.7,89.3
+72,Doha,Qatar,87.7,85,91.7,79.9,91.7,96.4
+73,Bratislava,Slovakia,87.6,85,87.5,83.6,91.7,92.9
+74,Detroit,United States,87.5,85,91.7,81.8,91.7,89.3
+75,Los Angeles,United States,87.4,80,91.7,89,91.7,85.7
+76,Johannesburg,South Africa,87.3,75,91.7,87.2,91.7,89.3
+77,Bucharest,Romania,87.2,80,87.5,85.4,91.7,92.9
+78,Beijing,China,87.1,80,91.7,82.7,91.7,89.3
+79,Bangkok,Thailand,87,80,91.7,84.5,91.7,85.7
+80,Sao Paulo,Brazil,86.9,75,91.7,87.2,91.7,89.3
+81,Rio de Janeiro,Brazil,86.8,75,91.7,88.1,91.7,85.7
+82,Amman,Jordan,86.7,80,87.5,83.6,91.7,89.3
+83,Durban,South Africa,86.6,75,91.7,85.4,91.7,89.3
+84,Guangzhou,China,86.5,80,91.7,81.8,91.7,89.3
+85,Tunis,Tunisia,86.4,75,87.5,86.3,91.7,92.9
+86,Colombo,Sri Lanka,86.3,75,87.5,85.4,91.7,92.9
+87,Panama City,Panama,86.2,80,87.5,83.6,91.7,89.3
+88,Lima,Peru,86.1,75,87.5,87.2,91.7,89.3
+89,Casablanca,Morocco,86,75,87.5,86.3,91.7,89.3
+90,Ho Chi Minh City,Vietnam,85.9,80,87.5,81.8,91.7,89.3
+91,Hanoi,Vietnam,85.8,80,87.5,81.8,91.7,89.3
+92,New Delhi,India,85.7,75,87.5,85.4,91.7,89.3
+93,Mumbai,India,85.6,75,87.5,86.3,91.7,85.7
+94,Baku,Azerbaijan,85.5,75,87.5,83.6,91.7,89.3
+95,Almaty,Kazakhstan,85.4,75,87.5,82.7,91.7,89.3
+96,Manila,Philippines,85.3,70,87.5,86.3,91.7,89.3
+97,Istanbul,Turkey,85.2,70,91.7,87.2,91.7,85.7
+98,Jakarta,Indonesia,85.1,75,87.5,83.6,91.7,85.7
+99,Kiev,Ukraine,85,70,87.5,86.3,91.7,89.3
+100,Nairobi,Kenya,84.9,65,87.5,88.1,91.7,89.3
