@@ -103,7 +103,7 @@ This indicates a strong positive relationship between the constructed index and 
 ### Scatter Plot
 
 A scatter plot of both scores shows a clear upward trend:
-![Scatter Plot](/outpu-scatterplot.png)
+![Scatter Plot](/output-scatterplot.png)
 
 ## Correlation Matrix
 
